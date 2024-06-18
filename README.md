@@ -18,4 +18,3 @@ Develop this in your own fork. After you build your models, add a few different 
 Do not spend more than 4 hours implementing the goals above. It's not mandatory that the goals above are 100% working, due to the time constraint, we're most interested in seeing your best work. Write this code as if you're contributing to a larger project with multiple developers who will critique your work. If you're running out of time and something isn't funcional yet, that's okay, make sure that whatever is functional is both complete and polished.
 
 Thank you [Dusan Orlovic](https://blog.trk.in.rs/) for your work in building this
-
